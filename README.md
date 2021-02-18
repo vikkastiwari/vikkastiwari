@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Vikas!]
+## Hey <img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/Hi.gif" width="29px">, I'm [Vikas!]
 
  ## :trophy: Languages and Tools:
 
