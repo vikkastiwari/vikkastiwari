@@ -4,6 +4,8 @@
 🙎🏻‍♂️ A junior pursuing my Bachelors in "Information & Technology Engineering". </br>
 💻 My interests range from Frontend to Backend Development & enjoy exploring new things. </br>
 
+<img align="right" width="375" alt="GIF" src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/dev.gif" />
+
 ### ⚔️ Languages and Tools: ⚔️
 
 <img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-html-5.svg" width="29px"> <img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-css3.svg" width="29px"> <img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-bootstrap.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-javascript-logo.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-react.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-nodejs.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-mongodb.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-firebase.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-flutter.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-git.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-github.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/figma.svg" width="29px">
