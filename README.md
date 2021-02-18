@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/Hi.gif" width="29px">, I'm [Vikas!]
+## Hey <img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/Hi.gif" width="29px">, I'm [Vikas!](https://www.linkedin.com/in/vikas-tiwari-1b051818b/)
 
  ## :trophy: Languages and Tools:
 
