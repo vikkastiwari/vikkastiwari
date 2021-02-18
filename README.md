@@ -16,7 +16,7 @@
 [<img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-play-button.svg" width="30px">](https://www.youtube.com/channel/UCI_xIqMJa1Oirfjx5-ykylA)
 [<img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-website.svg" width="30px">](https://programmersmode.blogspot.com/)
 
-<img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/giphy.webp" width="60"> <em><b>I love connecting with different people.</b> </br>so if you want to say <b>hi, I'll be happy to interact!</b> :)</em>
+<img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/giphy.webp" width="60"> <em><b>I love connecting with different people,</b> so if you want to say <b>hi, I'll be happy to interact!</b> :)</em>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=vikkastiwari&count_private=true&show_icons=true">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikkastiwari">
