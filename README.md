@@ -2,11 +2,18 @@
   Hey <img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/Hi.gif" width="29px">, I'm
 </h1>
 <p align="center"><a href="https://www.linkedin.com/in/vikas-tiwari-1b051818b/">
-<img height="40px" src="https://img.shields.io/badge/-Vikas-5457ff?style=for-the-badge">
-<img height="40px" src="https://img.shields.io/badge/-Tiwari-4285D8?style=for-the-badge">
+<img height="40px" src="https://img.shields.io/badge/-Vikas-4285D8?style=for-the-badge">
+<img height="40px" src="https://img.shields.io/badge/-Tiwari-5457ff?style=for-the-badge">
 </a></p> 
 
-### About Me 🚀
+<p align="center"><a href="https://www.linkedin.com/in/vikas-tiwari-1b051818b/"> 
+<img src="https://img.shields.io/badge/-A-4d79ff?style=for-the-badge">
+<img src="https://img.shields.io/badge/-MERN-5457ff?style=for-the-badge">
+<img src="https://img.shields.io/badge/-and_a-7f54ff?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Open_Source_Enthusiast-902eff?style=for-the-badge">
+</a></p>
+
+<h2 align="center">About Me 🚀</h2>
 👦 A junior pursuing my Bachelors in "Information & Technology Engineering". </br>
 💻 My interests range from Frontend to Backend Development & enjoy exploring new things. </br>
 
