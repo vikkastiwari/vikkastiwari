@@ -25,17 +25,9 @@
 
 <img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/cpp.svg" width="25px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/python.svg" width="25px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-html-5.svg" width="29px"> <img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-css3.svg" width="29px"> <img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-bootstrap.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-javascript-logo.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-react.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-nodejs.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-mongodb.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-firebase.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-flutter.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-git.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-github.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/figma.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/gc.svg" width="29px">
 
-### 😃 Want to know more about me? 🤔
-### 🔍 Reach me at: 💬
-[<img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-linkedin.svg" width="30px">](https://www.linkedin.com/in/vikas-tiwari-1b051818b/)
-[<img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-important-mail.svg" width="30px">](mailto:v8kgsm@gmail.com)
-[<img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-play-button.svg" width="30px">](https://www.youtube.com/channel/UCI_xIqMJa1Oirfjx5-ykylA)
-[<img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-website.svg" width="30px">](https://programmersmode.blogspot.com/)
-
 <img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/giphy.webp" width="60"> <em><b>I love connecting with different people,</b> so if you want to say <b>hi, I'll be happy to interact!</b> :)</em>
 
-
-<h2 align="center">Profile stats</h2>
+<h2 align="center">Profile stats 📉</h2>
 
 <br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=vikkastiwari&style=flat-square&color=4287f5"></p>
@@ -49,7 +41,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=vikkastiwari&theme=dracula&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
 
 
-<h2 align="center">🔍 Reach me at 💬</h2>
+<h2 align="center">🔍 Reach me at 😃</h2>
 
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/vikas-tiwari-1b051818b/"><img src="https://img.shields.io/badge/-LinkedIn-5457ff?style=for-the-badge&logo=LinkedIn"></a>
