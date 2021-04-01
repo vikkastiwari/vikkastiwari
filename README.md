@@ -31,7 +31,6 @@
 <img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/giphy.webp" width="38"> <em><b>I love connecting with different people. So, If you have any suggestion, project or even you want to say hi!!, I'll be happy to interact!</b> :)</em>
 </p>
 
-
 <br>
 <h2 align="center">Profile stats 📉</h2>
 <br>
@@ -40,9 +39,10 @@
 <img width="370px" alt="Eternal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vikkastiwari&custom_title=Overall+Activity&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff" />
 <img width="370px" alt="Eternal's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vikkastiwari&background=ffffff00&hide_border=true&stroke=878787&ring=296dda&fire=296dda&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
 </p>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikkastiwari&custom_title=Top+Language's+Used&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff" />
-</p>
+
+<!-- <p align="center"> 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikkastiwari&custom_title=Top+Language's+Used&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff" />
+</p> -->
 
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=vikkastiwari&theme=dracula&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
@@ -53,7 +53,7 @@
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/vikas-tiwari-1b051818b/"><img src="https://img.shields.io/badge/-LinkedIn-5457ff?style=for-the-badge&logo=LinkedIn"></a>
 <a target="_blank" href="mailto:v8kgsm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-5e5e5e?style=for-the-badge&logo=Gmail"></a>
-<!-- <a target="_blank" href="https://tarun-kamboj.github.io/"><img src="https://img.shields.io/badge/-Portfolio-5e5e5e?style=for-the-badge&logo=Opsgenie"></a> -->
+<!-- <a target="_blank" href="#"><img src="https://img.shields.io/badge/-Portfolio-5e5e5e?style=for-the-badge&logo=Opsgenie"></a> -->
 <a target="_blank" href="https://www.youtube.com/channel/UCI_xIqMJa1Oirfjx5-ykylA"><img src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=Youtube"></a>
 <a target="_blank" href="https://dev.to/vikkastiwari"><img src="https://img.shields.io/badge/-Blog-41464c?style=for-the-badge"></a>
 </p>
