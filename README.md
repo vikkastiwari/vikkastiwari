@@ -1,4 +1,10 @@
-## Hey <img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/Hi.gif" width="29px">, I'm [Vikas!](https://www.linkedin.com/in/vikas-tiwari-1b051818b/)
+<h1 align="center">
+  Hey <img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/Hi.gif" width="29px">, I'm
+</h1>
+<p align="center"><a href="https://www.linkedin.com/in/vikas-tiwari-1b051818b/">
+<img height="40px" src="https://img.shields.io/badge/-Vikas-5457ff?style=for-the-badge">
+<img height="40px" src="https://img.shields.io/badge/-Tiwari-4285D8?style=for-the-badge">
+</a></p> 
 
 ### About Me 🚀
 👦 A junior pursuing my Bachelors in "Information & Technology Engineering". </br>
