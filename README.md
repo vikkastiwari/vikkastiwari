@@ -22,8 +22,9 @@
 <br>
 <p align="center">
 <img align="right" width="375" alt="GIF" src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/dev.gif" />
+</p>
 
-<br>
+<p align="center">
 <h2>Languages and Tools ⚔️</h2>
 
 <img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/cpp.svg" width="25px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/python.svg" width="25px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-html-5.svg" width="29px"> <img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-css3.svg" width="29px"> <img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-bootstrap.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-javascript-logo.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-react.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-nodejs.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-mongodb.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-firebase.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-flutter.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-git.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-github.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/figma.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/gc.svg" width="29px">
