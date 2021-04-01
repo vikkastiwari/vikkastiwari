@@ -41,8 +41,9 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=vikkastiwari&style=flat-square&color=4287f5"></p>
 <p align="center">
 <img width="370px" alt="Eternal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vikkastiwari&custom_title=Overall+Activity&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff" />
-<img width="370px" alt="Eternal's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-Kamboj&background=ffffff00&hide_border=true&stroke=878787&ring=296dda&fire=296dda&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikkastiwari">
+<img width="370px" alt="Eternal's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vikkastiwari&background=ffffff00&hide_border=true&stroke=878787&ring=296dda&fire=296dda&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
+</p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikkastiwari&background=ffffff00&hide_border=true&stroke=878787&ring=296dda&fire=296dda&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787"/>
 </p>
 <img src="https://activity-graph.herokuapp.com/graph?username=vikkastiwari&theme=dracula&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
