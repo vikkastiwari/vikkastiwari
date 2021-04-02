@@ -49,7 +49,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=vikkastiwari&theme=dracula&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
 </p>
 
-<h2 align="center">🔍 Reach me at 😃</h2>
+<h2 align="center">Reach me at 🔍</h2>
 
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/vikas-tiwari-1b051818b/"><img src="https://img.shields.io/badge/-LinkedIn-5457ff?style=for-the-badge&logo=LinkedIn"></a>
