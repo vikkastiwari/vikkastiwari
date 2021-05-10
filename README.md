@@ -54,8 +54,8 @@
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/vikas-tiwari-1b051818b/"><img src="https://img.shields.io/badge/-LinkedIn-5457ff?style=for-the-badge&logo=LinkedIn"></a>
 <a target="_blank" href="mailto:v8kgsm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-5e5e5e?style=for-the-badge&logo=Gmail"></a>
-<!-- <a target="_blank" href="#"><img src="https://img.shields.io/badge/-Portfolio-5e5e5e?style=for-the-badge&logo=Opsgenie"></a> -->
+<!-- <a target="_blank" href="#"><img src="https://img.shields.io/badge/-Portfolio-5e5e5e?style=for-the-badge"></a> -->
 <a target="_blank" href="https://www.youtube.com/channel/UCI_xIqMJa1Oirfjx5-ykylA"><img src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=Youtube"></a>
 <a target="_blank" href="https://dev.to/vikkastiwari"><img src="https://img.shields.io/badge/-Blog-41464c?style=for-the-badge"></a>
-<a target="_blank" href="https://iamvikkastiwari.web.app/"><img src="https://img.shields.io/badge/-Portfolio-2A5AD3?style=for-the-badge"></a>
+<a target="_blank" href="https://iamvikkastiwari.web.app/"><img src="https://img.shields.io/badge/-Portfolio-2A5AD3?style=for-the-badge&logo=Opsgenie"></a>
 </p>
