@@ -10,7 +10,7 @@
 <p align="center"><a href="https://www.linkedin.com/in/vikas-tiwari-1b051818b/"> 
 <img src="https://img.shields.io/badge/-A-4d79ff?style=for-the-badge">
 <img src="https://img.shields.io/badge/-MERN-5457ff?style=for-the-badge">
-<img src="https://img.shields.io/badge/-and_a-7f54ff?style=for-the-badge">
+<img src="https://img.shields.io/badge/-and_an-7f54ff?style=for-the-badge">
 <img src="https://img.shields.io/badge/-Open_Source_Enthusiast-902eff?style=for-the-badge">
 </a></p>
 <h2 align="center">About Me 🚀</h2>
