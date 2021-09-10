@@ -15,8 +15,8 @@
 </a></p>
 <h2 align="center">About Me 🚀</h2>
 <p align="center">
-👦Pursuing my Bachelors in "Information & Technology Engineering". </br>
-💻My interests range from Frontend to Backend Development & enjoy exploring new things.
+👦Pursuing my Bachelors Degree in "Information & Technology Engineering". </br>
+💻My interests range from Frontend to Backend Development & I enjoy exploring new things.
 </P>
 
 <br>
