@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey <img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/Hi.gif" width="29px">, I'm
+  Hello<img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/Hi.gif" width="29px">, folks! I'm
 </h1>
 
 <p align="center"><a href="https://www.linkedin.com/in/vikas-tiwari-1b051818b/">
@@ -25,14 +25,29 @@
 </p>
 
 <p align="center">
-<h2>Languages and Tools ⚔️</h2>
+<h3>Things I code with ⚔️</h3>
 
-<img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/cpp.svg" width="25px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/python.svg" width="25px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-html-5.svg" width="29px"> <img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-css3.svg" width="29px"> <img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-bootstrap.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-javascript-logo.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-react.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-nodejs.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-mongodb.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-firebase.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-flutter.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-git.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-github.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/figma.svg" width="29px"><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/gc.svg" width="29px">
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/cpp.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
 
-<img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/giphy.webp" width="38"> <em><b>I love connecting with different people. So, If you have any suggestion, project or even you want to say hi!!, I'll be happy to interact!</b> :)</em>
+### Tools I use:
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/icons8-firebase.svg" width="30px"></span>&nbsp;
+<span><img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" width="30px"></span>&nbsp;
+<span><img src="https://github.com/vikkastiwari/vikkastiwari/blob/main/img/figma.svg" width="30px"></span>&nbsp;
+
+### Things I am learning:
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30px"></span>&nbsp;
+
 </p>
 
-<br>
 <h2 align="center">Profile stats 📉</h2>
 <br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=vikkastiwari&style=flat-square&color=4287f5"></p>
@@ -52,10 +67,11 @@
 <h2 align="center">Reach me at 🔍</h2>
 
 <p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/vikas-tiwari-1b051818b/"><img src="https://img.shields.io/badge/-LinkedIn-5457ff?style=for-the-badge&logo=LinkedIn"></a>
-<a target="_blank" href="mailto:v8kgsm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-5e5e5e?style=for-the-badge&logo=Gmail"></a>
+<a target="_blank" href="https://www.linkedin.com/in/vikas-tiwari-1b051818b/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn"></a>
+<a target="_blank" href="mailto:vikkastiwari56@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c0392b?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 <!-- <a target="_blank" href="#"><img src="https://img.shields.io/badge/-Portfolio-5e5e5e?style=for-the-badge"></a> -->
 <a target="_blank" href="https://www.youtube.com/channel/UCI_xIqMJa1Oirfjx5-ykylA"><img src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=Youtube"></a>
-<a target="_blank" href="https://dev.to/vikkastiwari"><img src="https://img.shields.io/badge/-Blog-41464c?style=for-the-badge"></a>
+<a target="_blank" href="https://tiwarivikas.medium.com/"><img src="https://img.shields.io/badge/-Medium-41464c?style=for-the-badge&logo=Medium"></a>
+<a target="_blank" href="https://twitter.com/vikkastiwari/"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a target="_blank" href="https://iamvikkastiwari.web.app/"><img src="https://img.shields.io/badge/-Portfolio-2A5AD3?style=for-the-badge&logo=Opsgenie"></a>
 </p>
