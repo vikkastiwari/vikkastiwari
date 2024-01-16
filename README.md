@@ -20,7 +20,8 @@
 
 <h2 align="center">About Me 🚀</h2>
 <p align="center">
-👦Pursuing my Bachelors Degree in "Information & Technology Engineering". </br>
+👦Graduated with a Bachelors Degree in "Information & Technology Engineering". </br>
+👨‍💻Software Engineer <a href="https://www.pepperfry.com/">@Pepperfry</a> </br>
 💻My interests range from Frontend to Backend Development & I enjoy exploring new things.
 </P>
 
