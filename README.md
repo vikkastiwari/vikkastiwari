@@ -64,7 +64,7 @@
 <a target="_blank" href="https://www.youtube.com/channel/UCI_xIqMJa1Oirfjx5-ykylA"><img src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=Youtube"></a>
 <a target="_blank" href="https://tiwarivikas.medium.com/"><img src="https://img.shields.io/badge/-Medium-41464c?style=for-the-badge&logo=Medium"></a>
 <!-- <a target="_blank" href="https://twitter.com/vikkastiwari/"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=Twitter&logoColor=white"></a> -->
-<a target="_blank" href="https://iamvikkastiwari.web.app/"><img src="https://img.shields.io/badge/-Portfolio-2A5AD3?style=for-the-badge&logo=Opsgenie"></a>
+<a target="_blank" href="https://tiwarivikas.in/"><img src="https://img.shields.io/badge/-Portfolio-2A5AD3?style=for-the-badge&logo=Opsgenie"></a>
 </p>
 
 <h2 align="center">Profile stats 📉</h2>
